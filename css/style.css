@@ -1,0 +1,43 @@
+body{
+    background-image: url("background.jpg");
+    color: #eee;
+    font-family: 'Roboto';
+} 
+
+header{
+    background-color: blue;
+    font-size: larger;
+    text-align: center;
+    color:#eee;
+}
+
+nav ul li{
+    display: inline-block;
+    padding-left: 60px;
+
+}
+
+nav ul li a{
+    color:white;
+
+}
+
+fieldset #container{
+    float:left;
+}
+
+fieldset #parent{
+    float:right;
+}
+
+#middle-footer{
+    text-align: center;
+    vertical-align: middle;
+    color:#eee
+
+}
+
+#right-footer{
+    float:right;
+    color:#eee;
+}
